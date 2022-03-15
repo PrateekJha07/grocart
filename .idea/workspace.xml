@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a1aafb2-cd47-450a-b14e-3e04ba0678e7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ddl/v1.0/Excel Schema-v1.0.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ddl/v2.0/DDL-v2.0.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ddl/v2.0/ER diagram-2.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ddl/v2.0/Excel Schema-v2.0.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ddl/v2.0/Insert.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ddl/v3.0/Excel Schema-v3.0.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/routes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/static/css/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/static/css/home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/static/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/static/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/static/css/topStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/static/css/topStyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/static/images/background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/static/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/static/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/static/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/static/js/validateForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/static/js/validateForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/static/uploads/DellInspiron.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/static/uploads/GooglePixel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/static/uploads/Huawei.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/static/uploads/Iphone-10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/static/uploads/Iphone-X.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/static/uploads/Macbook.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/static/uploads/SamsungCurved.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/static/uploads/SamsungS8.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/static/uploads/SamsungS8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/static/uploads/SamsungUHD.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/static/uploads/andriodWatch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/static/uploads/applewatch.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/static/uploads/c4544c76a438d876.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/static/uploads/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/static/uploads/motorolaZ2-Force.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/OrderPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/templates/OrderPage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/addCategory.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/templates/addCategory.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/addProduct.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/templates/addProduct.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/admin.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/templates/admin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/adminProduct.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/templates/adminProduct.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/adminProducts.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/templates/adminProducts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/templates/cart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/checkoutPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/templates/checkoutPage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/displayCategory.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/templates/displayCategory.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/templates/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/productDescription.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/templates/productDescription.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/templates/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/sample.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/templates/trends.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/templates/trends.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/presentation/Star Gadgets.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/presentation/dummy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userRequirement/Final_Project_Technical_Specification.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userRequirement/dummy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/dummy" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/requirements.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ecommerce/__init__.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ecommerce/routes.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/run.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="262sricpA1Bh7VEIOF0G4XTobFq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ecommerce-flask-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a1aafb2-cd47-450a-b14e-3e04ba0678e7" name="Changes" comment="" />
+      <created>1646633215742</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646633215742</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
